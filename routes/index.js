@@ -4,6 +4,7 @@ var SessionHandler = require('./session')
 
 module.exports = exports = function(app, db) {
 
+	// I have no idea what's going on
     var sessionHandler = new SessionHandler(db);
     var contentHandler = new ContentHandler(db);
 
