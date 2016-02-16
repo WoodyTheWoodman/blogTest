@@ -1,3 +1,5 @@
+/* This is a new comment */
+
 /* The PostsDAO must be constructed with a connected database object */
 function PostsDAO(db) {
     "use strict";
