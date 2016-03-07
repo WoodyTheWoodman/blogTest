@@ -17,3 +17,12 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | renders | **nicely**
 1 | 2 | 3
+
+1. First ordered list item
+2. Another item
+   * Unordered sub-list.
+1. Actual numbers don't matter, just that it's a number  
+   This is a trailing sentence.
+  1. Ordered sub-list
+     * Unordered sub-list.
+4. And another item.
